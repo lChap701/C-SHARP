@@ -1,0 +1,9 @@
+C:\CSharp\Chapter12\PictureBoxDemo\PictureBoxDemo\bin\Debug\PictureBoxDemo.exe.config
+C:\CSharp\Chapter12\PictureBoxDemo\PictureBoxDemo\bin\Debug\PictureBoxDemo.exe
+C:\CSharp\Chapter12\PictureBoxDemo\PictureBoxDemo\bin\Debug\PictureBoxDemo.pdb
+C:\CSharp\Chapter12\PictureBoxDemo\PictureBoxDemo\obj\Debug\PictureBoxDemo.csprojResolveAssemblyReference.cache
+C:\CSharp\Chapter12\PictureBoxDemo\PictureBoxDemo\obj\Debug\PictureBoxDemo.Form1.resources
+C:\CSharp\Chapter12\PictureBoxDemo\PictureBoxDemo\obj\Debug\PictureBoxDemo.Properties.Resources.resources
+C:\CSharp\Chapter12\PictureBoxDemo\PictureBoxDemo\obj\Debug\PictureBoxDemo.csproj.GenerateResource.Cache
+C:\CSharp\Chapter12\PictureBoxDemo\PictureBoxDemo\obj\Debug\PictureBoxDemo.exe
+C:\CSharp\Chapter12\PictureBoxDemo\PictureBoxDemo\obj\Debug\PictureBoxDemo.pdb

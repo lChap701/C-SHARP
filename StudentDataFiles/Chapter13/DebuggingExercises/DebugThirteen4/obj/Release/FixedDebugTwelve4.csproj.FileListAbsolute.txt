@@ -1,0 +1,10 @@
+C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\obj\Release\FixedDebugTwelve4.exe
+C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\obj\Release\FixedDebugTwelve4.pdb
+C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\bin\Release\FixedDebugTwelve4.exe
+C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\bin\Release\FixedDebugTwelve4.pdb
+C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\obj\Release\ResolveAssemblyReference.cache
+C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\obj\Release\FixedDebugTwelve4.Form1.resources
+C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\obj\Release\FixedDebugTwelve4.Properties.Resources.resources
+C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\obj\Release\FixedDebugTwelve4.csproj.GenerateResource.Cache
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\obj\Release\FixedDebugTwelve4.exe
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\obj\Release\FixedDebugTwelve4.pdb

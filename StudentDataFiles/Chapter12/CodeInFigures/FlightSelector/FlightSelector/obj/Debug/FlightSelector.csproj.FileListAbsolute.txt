@@ -1,0 +1,17 @@
+C:\CSharp\Chapter12\FlightSelector\FlightSelector\bin\Debug\FlightSelector.exe.config
+C:\CSharp\Chapter12\FlightSelector\FlightSelector\bin\Debug\FlightSelector.exe
+C:\CSharp\Chapter12\FlightSelector\FlightSelector\bin\Debug\FlightSelector.pdb
+C:\CSharp\Chapter12\FlightSelector\FlightSelector\obj\Debug\FlightSelector.Form1.resources
+C:\CSharp\Chapter12\FlightSelector\FlightSelector\obj\Debug\FlightSelector.Properties.Resources.resources
+C:\CSharp\Chapter12\FlightSelector\FlightSelector\obj\Debug\FlightSelector.csproj.GenerateResource.Cache
+C:\CSharp\Chapter12\FlightSelector\FlightSelector\obj\Debug\FlightSelector.exe
+C:\CSharp\Chapter12\FlightSelector\FlightSelector\obj\Debug\FlightSelector.pdb
+C:\CSharp\Chapter12\StudentData\CodeInFigures\FlightSelector\FlightSelector\bin\Debug\FlightSelector.exe.config
+C:\CSharp\Chapter12\StudentData\CodeInFigures\FlightSelector\FlightSelector\bin\Debug\FlightSelector.exe
+C:\CSharp\Chapter12\StudentData\CodeInFigures\FlightSelector\FlightSelector\bin\Debug\FlightSelector.pdb
+C:\CSharp\Chapter12\StudentData\CodeInFigures\FlightSelector\FlightSelector\obj\Debug\FlightSelector.csprojResolveAssemblyReference.cache
+C:\CSharp\Chapter12\StudentData\CodeInFigures\FlightSelector\FlightSelector\obj\Debug\FlightSelector.Form1.resources
+C:\CSharp\Chapter12\StudentData\CodeInFigures\FlightSelector\FlightSelector\obj\Debug\FlightSelector.Properties.Resources.resources
+C:\CSharp\Chapter12\StudentData\CodeInFigures\FlightSelector\FlightSelector\obj\Debug\FlightSelector.csproj.GenerateResource.Cache
+C:\CSharp\Chapter12\StudentData\CodeInFigures\FlightSelector\FlightSelector\obj\Debug\FlightSelector.exe
+C:\CSharp\Chapter12\StudentData\CodeInFigures\FlightSelector\FlightSelector\obj\Debug\FlightSelector.pdb

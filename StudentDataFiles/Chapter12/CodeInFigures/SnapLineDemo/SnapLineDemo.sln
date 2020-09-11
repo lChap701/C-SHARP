@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.25914.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnapLineDemo", "SnapLineDemo\SnapLineDemo.csproj", "{D61C819D-055A-4255-9E58-20E96B4A6FFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D61C819D-055A-4255-9E58-20E96B4A6FFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61C819D-055A-4255-9E58-20E96B4A6FFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61C819D-055A-4255-9E58-20E96B4A6FFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61C819D-055A-4255-9E58-20E96B4A6FFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

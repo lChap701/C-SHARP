@@ -1,0 +1,10 @@
+C:\C#\Chapter.03\FixedDebugThree2\FixedDebugThree2\bin\Debug\FixedDebugThree2.exe
+C:\C#\Chapter.03\FixedDebugThree2\FixedDebugThree2\bin\Debug\FixedDebugThree2.pdb
+C:\C#\Chapter.03\FixedDebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.Form1.resources
+C:\C#\Chapter.03\FixedDebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.Properties.Resources.resources
+C:\C#\Chapter.03\FixedDebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.exe
+C:\C#\Chapter.03\FixedDebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.pdb
+C:\C#\Chapter.03\FixedDebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.csprojResolveAssemblyReference.cache
+C:\C#\Chapter.03\FixedDebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.csproj.GenerateResource.Cache
+C:\CSharp5\Chapter03\StudentFiles\Debugging\DebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.exe
+C:\CSharp5\Chapter03\StudentFiles\Debugging\DebugThree2\FixedDebugThree2\obj\x86\Debug\FixedDebugThree2.pdb

@@ -1,0 +1,9 @@
+C:\C#\Chapter.03\FixedDebugThree4\FixedDebugThree4\obj\x86\Debug\FixedDebugThree4.Form1.resources
+C:\C#\Chapter.03\FixedDebugThree4\FixedDebugThree4\obj\x86\Debug\FixedDebugThree4.Properties.Resources.resources
+C:\C#\Chapter.03\FixedDebugThree4\FixedDebugThree4\bin\Debug\FixedDebugThree4.exe
+C:\C#\Chapter.03\FixedDebugThree4\FixedDebugThree4\bin\Debug\FixedDebugThree4.pdb
+C:\C#\Chapter.03\FixedDebugThree4\FixedDebugThree4\obj\x86\Debug\FixedDebugThree4.exe
+C:\C#\Chapter.03\FixedDebugThree4\FixedDebugThree4\obj\x86\Debug\FixedDebugThree4.pdb
+C:\C#\Chapter.03\FixedDebugThree4\FixedDebugThree4\obj\x86\Debug\FixedDebugThree4.csproj.GenerateResource.Cache
+C:\CSharp5\Chapter03\StudentFiles\Debugging\DebugThree4\FixedDebugThree4\obj\x86\Debug\FixedDebugThree4.exe
+C:\CSharp5\Chapter03\StudentFiles\Debugging\DebugThree4\FixedDebugThree4\obj\x86\Debug\FixedDebugThree4.pdb

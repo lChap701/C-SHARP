@@ -1,0 +1,9 @@
+C:\CSharp\Chapter12\SnapLineDemo\SnapLineDemo\bin\Debug\SnapLineDemo.exe.config
+C:\CSharp\Chapter12\SnapLineDemo\SnapLineDemo\bin\Debug\SnapLineDemo.exe
+C:\CSharp\Chapter12\SnapLineDemo\SnapLineDemo\bin\Debug\SnapLineDemo.pdb
+C:\CSharp\Chapter12\SnapLineDemo\SnapLineDemo\obj\Debug\SnapLineDemo.csprojResolveAssemblyReference.cache
+C:\CSharp\Chapter12\SnapLineDemo\SnapLineDemo\obj\Debug\SnapLineDemo.Form1.resources
+C:\CSharp\Chapter12\SnapLineDemo\SnapLineDemo\obj\Debug\SnapLineDemo.Properties.Resources.resources
+C:\CSharp\Chapter12\SnapLineDemo\SnapLineDemo\obj\Debug\SnapLineDemo.csproj.GenerateResource.Cache
+C:\CSharp\Chapter12\SnapLineDemo\SnapLineDemo\obj\Debug\SnapLineDemo.exe
+C:\CSharp\Chapter12\SnapLineDemo\SnapLineDemo\obj\Debug\SnapLineDemo.pdb

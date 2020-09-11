@@ -1,0 +1,9 @@
+C:\CSharp\Chapter03\AddTwoNumbers\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
+C:\CSharp\Chapter03\AddTwoNumbers\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
+C:\CSharp\Chapter03\AddTwoNumbers\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
+C:\CSharp\Chapter03\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.csprojResolveAssemblyReference.cache
+C:\CSharp\Chapter03\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.Form1.resources
+C:\CSharp\Chapter03\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.Properties.Resources.resources
+C:\CSharp\Chapter03\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.csproj.GenerateResource.Cache
+C:\CSharp\Chapter03\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
+C:\CSharp\Chapter03\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb

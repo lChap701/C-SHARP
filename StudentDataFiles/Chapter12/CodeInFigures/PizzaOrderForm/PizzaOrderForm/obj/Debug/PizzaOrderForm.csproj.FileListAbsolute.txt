@@ -1,0 +1,9 @@
+C:\CSharp\Chapter12\PizzaOrderForm\PizzaOrderForm\bin\Debug\PizzaOrderForm.exe.config
+C:\CSharp\Chapter12\PizzaOrderForm\PizzaOrderForm\bin\Debug\PizzaOrderForm.exe
+C:\CSharp\Chapter12\PizzaOrderForm\PizzaOrderForm\bin\Debug\PizzaOrderForm.pdb
+C:\CSharp\Chapter12\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.csprojResolveAssemblyReference.cache
+C:\CSharp\Chapter12\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.Form1.resources
+C:\CSharp\Chapter12\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.Properties.Resources.resources
+C:\CSharp\Chapter12\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.csproj.GenerateResource.Cache
+C:\CSharp\Chapter12\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.exe
+C:\CSharp\Chapter12\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.pdb

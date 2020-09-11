@@ -1,0 +1,16 @@
+obj\Release\FixedDebugTwelve4.exe
+obj\Release\FixedDebugTwelve4.pdb
+bin\Release\FixedDebugTwelve4.exe
+bin\Release\FixedDebugTwelve4.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FixedDebugTwelve4.Form1.resources
+obj\Release\FixedDebugTwelve4.Properties.Resources.resources
+obj\Release\FixedDebugTwelve4.csproj.GenerateResource.Cache
+bin\Debug\FixedDebugTwelve4.exe
+bin\Debug\FixedDebugTwelve4.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FixedDebugTwelve4.Form1.resources
+obj\Debug\FixedDebugTwelve4.Properties.Resources.resources
+obj\Debug\FixedDebugTwelve4.csproj.GenerateResource.Cache
+obj\Debug\FixedDebugTwelve4.exe
+obj\Debug\FixedDebugTwelve4.pdb

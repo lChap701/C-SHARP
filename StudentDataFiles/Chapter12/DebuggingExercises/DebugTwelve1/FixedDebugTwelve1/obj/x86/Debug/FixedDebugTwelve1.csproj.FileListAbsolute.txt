@@ -1,0 +1,17 @@
+C:\C#\Chapter.12\FixedDebugTwelve1\FixedDebugTwelve1\bin\Debug\FixedDebugTwelve1.exe
+C:\C#\Chapter.12\FixedDebugTwelve1\FixedDebugTwelve1\bin\Debug\FixedDebugTwelve1.pdb
+C:\C#\Chapter.12\FixedDebugTwelve1\FixedDebugTwelve1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.12\FixedDebugTwelve1\FixedDebugTwelve1\obj\x86\Debug\FixedDebugTwelve1.Form1.resources
+C:\C#\Chapter.12\FixedDebugTwelve1\FixedDebugTwelve1\obj\x86\Debug\FixedDebugTwelve1.Properties.Resources.resources
+C:\C#\Chapter.12\FixedDebugTwelve1\FixedDebugTwelve1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.12\FixedDebugTwelve1\FixedDebugTwelve1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.12\FixedDebugTwelve1\FixedDebugTwelve1\obj\x86\Debug\FixedDebugTwelve1.exe
+C:\C#\Chapter.12\FixedDebugTwelve1\FixedDebugTwelve1\obj\x86\Debug\FixedDebugTwelve1.pdb
+C:\CSharp\Chapter12\DebuggingExercises\FixedDebugTwelve1\FixedDebugTwelve1\bin\Debug\FixedDebugTwelve1.exe
+C:\CSharp\Chapter12\DebuggingExercises\FixedDebugTwelve1\FixedDebugTwelve1\bin\Debug\FixedDebugTwelve1.pdb
+C:\CSharp\Chapter12\DebuggingExercises\FixedDebugTwelve1\FixedDebugTwelve1\obj\x86\Debug\FixedDebugTwelve1.csprojResolveAssemblyReference.cache
+C:\CSharp\Chapter12\DebuggingExercises\FixedDebugTwelve1\FixedDebugTwelve1\obj\x86\Debug\FixedDebugTwelve1.Form1.resources
+C:\CSharp\Chapter12\DebuggingExercises\FixedDebugTwelve1\FixedDebugTwelve1\obj\x86\Debug\FixedDebugTwelve1.Properties.Resources.resources
+C:\CSharp\Chapter12\DebuggingExercises\FixedDebugTwelve1\FixedDebugTwelve1\obj\x86\Debug\FixedDebugTwelve1.csproj.GenerateResource.Cache
+C:\CSharp\Chapter12\DebuggingExercises\FixedDebugTwelve1\FixedDebugTwelve1\obj\x86\Debug\FixedDebugTwelve1.exe
+C:\CSharp\Chapter12\DebuggingExercises\FixedDebugTwelve1\FixedDebugTwelve1\obj\x86\Debug\FixedDebugTwelve1.pdb

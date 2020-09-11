@@ -1,0 +1,9 @@
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\bin\Release\FixedDebugTwelve4.exe
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\bin\Release\FixedDebugTwelve4.pdb
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\obj\Release\ResolveAssemblyReference.cache
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\obj\Release\FixedDebugTwelve4.Form1.resources
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\obj\Release\FixedDebugTwelve4.Properties.Resources.resources
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\obj\Release\FixedDebugTwelve4.exe
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve4\FixedDebugTwelve4\obj\Release\FixedDebugTwelve4.pdb

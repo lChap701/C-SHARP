@@ -1,0 +1,9 @@
+C:\CSharp\Chapter12\DateTimePickerDemo\DateTimePickerDemo\bin\Debug\DateTimePickerDemo.exe.config
+C:\CSharp\Chapter12\DateTimePickerDemo\DateTimePickerDemo\bin\Debug\DateTimePickerDemo.exe
+C:\CSharp\Chapter12\DateTimePickerDemo\DateTimePickerDemo\bin\Debug\DateTimePickerDemo.pdb
+C:\CSharp\Chapter12\DateTimePickerDemo\DateTimePickerDemo\obj\Debug\DateTimePickerDemo.csprojResolveAssemblyReference.cache
+C:\CSharp\Chapter12\DateTimePickerDemo\DateTimePickerDemo\obj\Debug\DateTimePickerDemo.Form1.resources
+C:\CSharp\Chapter12\DateTimePickerDemo\DateTimePickerDemo\obj\Debug\DateTimePickerDemo.Properties.Resources.resources
+C:\CSharp\Chapter12\DateTimePickerDemo\DateTimePickerDemo\obj\Debug\DateTimePickerDemo.csproj.GenerateResource.Cache
+C:\CSharp\Chapter12\DateTimePickerDemo\DateTimePickerDemo\obj\Debug\DateTimePickerDemo.exe
+C:\CSharp\Chapter12\DateTimePickerDemo\DateTimePickerDemo\obj\Debug\DateTimePickerDemo.pdb

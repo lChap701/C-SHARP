@@ -1,0 +1,9 @@
+C:\CSharp\Chapter13\EventDemo\EventDemo\bin\Debug\EventDemo.exe.config
+C:\CSharp\Chapter13\EventDemo\EventDemo\bin\Debug\EventDemo.exe
+C:\CSharp\Chapter13\EventDemo\EventDemo\bin\Debug\EventDemo.pdb
+C:\CSharp\Chapter13\EventDemo\EventDemo\obj\Debug\EventDemo.csprojResolveAssemblyReference.cache
+C:\CSharp\Chapter13\EventDemo\EventDemo\obj\Debug\EventDemo.Form1.resources
+C:\CSharp\Chapter13\EventDemo\EventDemo\obj\Debug\EventDemo.Properties.Resources.resources
+C:\CSharp\Chapter13\EventDemo\EventDemo\obj\Debug\EventDemo.csproj.GenerateResource.Cache
+C:\CSharp\Chapter13\EventDemo\EventDemo\obj\Debug\EventDemo.exe
+C:\CSharp\Chapter13\EventDemo\EventDemo\obj\Debug\EventDemo.pdb

@@ -1,0 +1,6 @@
+private void OkButton_Click(object sender, EventArgs e)
+{
+   label1.Text = "object sender is: " + sender.ToString();
+   label2.Text = "EventArgs e is: " + e.ToString();
+}	
+

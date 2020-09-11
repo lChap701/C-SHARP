@@ -1,0 +1,9 @@
+C:\CSharp\Chapter12\LinkLabelDemo\LinkLabelDemo\bin\Debug\LinkLabelDemo.exe.config
+C:\CSharp\Chapter12\LinkLabelDemo\LinkLabelDemo\bin\Debug\LinkLabelDemo.exe
+C:\CSharp\Chapter12\LinkLabelDemo\LinkLabelDemo\bin\Debug\LinkLabelDemo.pdb
+C:\CSharp\Chapter12\LinkLabelDemo\LinkLabelDemo\obj\Debug\LinkLabelDemo.csprojResolveAssemblyReference.cache
+C:\CSharp\Chapter12\LinkLabelDemo\LinkLabelDemo\obj\Debug\LinkLabelDemo.Form1.resources
+C:\CSharp\Chapter12\LinkLabelDemo\LinkLabelDemo\obj\Debug\LinkLabelDemo.Properties.Resources.resources
+C:\CSharp\Chapter12\LinkLabelDemo\LinkLabelDemo\obj\Debug\LinkLabelDemo.csproj.GenerateResource.Cache
+C:\CSharp\Chapter12\LinkLabelDemo\LinkLabelDemo\obj\Debug\LinkLabelDemo.exe
+C:\CSharp\Chapter12\LinkLabelDemo\LinkLabelDemo\obj\Debug\LinkLabelDemo.pdb

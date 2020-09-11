@@ -1,0 +1,9 @@
+C:\CSharp\Chapter13\FocusDemo\FocusDemo\bin\Debug\FocusDemo.exe.config
+C:\CSharp\Chapter13\FocusDemo\FocusDemo\bin\Debug\FocusDemo.exe
+C:\CSharp\Chapter13\FocusDemo\FocusDemo\bin\Debug\FocusDemo.pdb
+C:\CSharp\Chapter13\FocusDemo\FocusDemo\obj\Debug\FocusDemo.csprojResolveAssemblyReference.cache
+C:\CSharp\Chapter13\FocusDemo\FocusDemo\obj\Debug\FocusDemo.Form1.resources
+C:\CSharp\Chapter13\FocusDemo\FocusDemo\obj\Debug\FocusDemo.Properties.Resources.resources
+C:\CSharp\Chapter13\FocusDemo\FocusDemo\obj\Debug\FocusDemo.csproj.GenerateResource.Cache
+C:\CSharp\Chapter13\FocusDemo\FocusDemo\obj\Debug\FocusDemo.exe
+C:\CSharp\Chapter13\FocusDemo\FocusDemo\obj\Debug\FocusDemo.pdb

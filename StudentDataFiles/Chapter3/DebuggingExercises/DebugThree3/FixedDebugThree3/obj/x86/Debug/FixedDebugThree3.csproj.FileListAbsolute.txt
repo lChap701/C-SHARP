@@ -1,0 +1,9 @@
+C:\C#\Chapter.03\FixedDebugThree3\FixedDebugThree3\bin\Debug\FixedDebugThree3.exe
+C:\C#\Chapter.03\FixedDebugThree3\FixedDebugThree3\bin\Debug\FixedDebugThree3.pdb
+C:\C#\Chapter.03\FixedDebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.Form1.resources
+C:\C#\Chapter.03\FixedDebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.Properties.Resources.resources
+C:\C#\Chapter.03\FixedDebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.exe
+C:\C#\Chapter.03\FixedDebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.pdb
+C:\C#\Chapter.03\FixedDebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.csproj.GenerateResource.Cache
+C:\CSharp5\Chapter03\StudentFiles\Debugging\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.exe
+C:\CSharp5\Chapter03\StudentFiles\Debugging\DebugThree3\FixedDebugThree3\obj\x86\Debug\FixedDebugThree3.pdb

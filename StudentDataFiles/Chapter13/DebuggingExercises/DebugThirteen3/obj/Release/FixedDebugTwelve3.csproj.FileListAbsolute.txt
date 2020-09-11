@@ -1,0 +1,17 @@
+C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve3\FixedDebugTwelve3\obj\Release\FixedDebugTwelve3.exe
+C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve3\FixedDebugTwelve3\obj\Release\FixedDebugTwelve3.pdb
+C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve3\FixedDebugTwelve3\bin\Release\FixedDebugTwelve3.exe
+C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve3\FixedDebugTwelve3\bin\Release\FixedDebugTwelve3.pdb
+C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve3\FixedDebugTwelve3\obj\Release\ResolveAssemblyReference.cache
+C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve3\FixedDebugTwelve3\obj\Release\FixedDebugTwelve3.Form1.resources
+C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve3\FixedDebugTwelve3\obj\Release\FixedDebugTwelve3.Properties.Resources.resources
+C:\CSharp2e\Chapter.12\CSharpChapter12AuthorFirst\Solutions\DebuggingExercises\FixedDebugTwelve3\FixedDebugTwelve3\obj\Release\FixedDebugTwelve3.csproj.GenerateResource.Cache
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve3\FixedDebugTwelve3\obj\Release\FixedDebugTwelve3.exe
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve3\FixedDebugTwelve3\obj\Release\FixedDebugTwelve3.pdb
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve3\FixedDebugTwelve3\bin\Release\FixedDebugTwelve3.exe
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve3\FixedDebugTwelve3\bin\Release\FixedDebugTwelve3.pdb
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve3\FixedDebugTwelve3\obj\Release\ResolveAssemblyReference.cache
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve3\FixedDebugTwelve3\obj\Release\FixedDebugTwelve3.Form1.resources
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve3\FixedDebugTwelve3\obj\Release\FixedDebugTwelve3.Properties.Resources.resources
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve3\FixedDebugTwelve3\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\C#\Chapter.13\DebuggingExercises\FixedDebugTwelve3\FixedDebugTwelve3\obj\Release\GenerateResource-ResGen.write.1.tlog

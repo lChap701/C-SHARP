@@ -1,0 +1,11 @@
+C:\C#\Chapter.06\CountContributions\CountContributions\bin\Debug\CountContributions.exe
+C:\C#\Chapter.06\CountContributions\CountContributions\bin\Debug\CountContributions.pdb
+C:\C#\Chapter.06\CountContributions\CountContributions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.06\CountContributions\CountContributions\obj\x86\Debug\CountContributions.Form1.resources
+C:\C#\Chapter.06\CountContributions\CountContributions\obj\x86\Debug\CountContributions.Properties.Resources.resources
+C:\C#\Chapter.06\CountContributions\CountContributions\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.06\CountContributions\CountContributions\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.06\CountContributions\CountContributions\obj\x86\Debug\CountContributions.exe
+C:\C#\Chapter.06\CountContributions\CountContributions\obj\x86\Debug\CountContributions.pdb
+C:\CSharp4\Chapter06\CSharp4eChapter06AuthorFirst\StudentFiles\CodeInFigures\CountContributions\CountContributions\obj\x86\Debug\CountContributions.exe
+C:\CSharp4\Chapter06\CSharp4eChapter06AuthorFirst\StudentFiles\CodeInFigures\CountContributions\CountContributions\obj\x86\Debug\CountContributions.pdb

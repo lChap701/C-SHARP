@@ -1,0 +1,9 @@
+C:\CSharp\Chapter13\CodeInFigures\SingleHandler\SingleHandler\bin\Debug\SingleHandler.exe.config
+C:\CSharp\Chapter13\CodeInFigures\SingleHandler\SingleHandler\bin\Debug\SingleHandler.exe
+C:\CSharp\Chapter13\CodeInFigures\SingleHandler\SingleHandler\bin\Debug\SingleHandler.pdb
+C:\CSharp\Chapter13\CodeInFigures\SingleHandler\SingleHandler\obj\Debug\SingleHandler.csprojResolveAssemblyReference.cache
+C:\CSharp\Chapter13\CodeInFigures\SingleHandler\SingleHandler\obj\Debug\SingleHandler.Form1.resources
+C:\CSharp\Chapter13\CodeInFigures\SingleHandler\SingleHandler\obj\Debug\SingleHandler.Properties.Resources.resources
+C:\CSharp\Chapter13\CodeInFigures\SingleHandler\SingleHandler\obj\Debug\SingleHandler.csproj.GenerateResource.Cache
+C:\CSharp\Chapter13\CodeInFigures\SingleHandler\SingleHandler\obj\Debug\SingleHandler.exe
+C:\CSharp\Chapter13\CodeInFigures\SingleHandler\SingleHandler\obj\Debug\SingleHandler.pdb
