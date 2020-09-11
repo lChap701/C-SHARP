@@ -1,0 +1,6 @@
+C:\IHCC\Fall Term 2020\C#\PlayBall\bin\Release\PlayBall.exe.config
+C:\IHCC\Fall Term 2020\C#\PlayBall\bin\Release\PlayBall.exe
+C:\IHCC\Fall Term 2020\C#\PlayBall\bin\Release\PlayBall.pdb
+C:\IHCC\Fall Term 2020\C#\PlayBall\obj\Release\PlayBall.csproj.CoreCompileInputs.cache
+C:\IHCC\Fall Term 2020\C#\PlayBall\obj\Release\PlayBall.exe
+C:\IHCC\Fall Term 2020\C#\PlayBall\obj\Release\PlayBall.pdb

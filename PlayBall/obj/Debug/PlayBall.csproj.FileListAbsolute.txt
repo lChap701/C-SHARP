@@ -1,0 +1,14 @@
+C:\IHCC\Fall Term 2020\PlayBall\bin\Debug\PlayBall.exe.config
+C:\IHCC\Fall Term 2020\PlayBall\bin\Debug\PlayBall.exe
+C:\IHCC\Fall Term 2020\PlayBall\bin\Debug\PlayBall.pdb
+C:\IHCC\Fall Term 2020\PlayBall\obj\Debug\PlayBall.csprojAssemblyReference.cache
+C:\IHCC\Fall Term 2020\PlayBall\obj\Debug\PlayBall.csproj.CoreCompileInputs.cache
+C:\IHCC\Fall Term 2020\PlayBall\obj\Debug\PlayBall.exe
+C:\IHCC\Fall Term 2020\PlayBall\obj\Debug\PlayBall.pdb
+C:\IHCC\Fall Term 2020\C#\PlayBall\bin\Debug\PlayBall.exe.config
+C:\IHCC\Fall Term 2020\C#\PlayBall\bin\Debug\PlayBall.exe
+C:\IHCC\Fall Term 2020\C#\PlayBall\bin\Debug\PlayBall.pdb
+C:\IHCC\Fall Term 2020\C#\PlayBall\obj\Debug\PlayBall.csprojAssemblyReference.cache
+C:\IHCC\Fall Term 2020\C#\PlayBall\obj\Debug\PlayBall.csproj.CoreCompileInputs.cache
+C:\IHCC\Fall Term 2020\C#\PlayBall\obj\Debug\PlayBall.exe
+C:\IHCC\Fall Term 2020\C#\PlayBall\obj\Debug\PlayBall.pdb
