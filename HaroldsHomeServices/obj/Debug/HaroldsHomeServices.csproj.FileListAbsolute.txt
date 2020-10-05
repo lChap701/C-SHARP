@@ -1,0 +1,14 @@
+C:\IHCC\Fall Term 2020\C#\Harold’sHomeServices\bin\Debug\Harold’sHomeServices.exe.config
+C:\IHCC\Fall Term 2020\C#\Harold’sHomeServices\bin\Debug\Harold’sHomeServices.exe
+C:\IHCC\Fall Term 2020\C#\Harold’sHomeServices\bin\Debug\Harold’sHomeServices.pdb
+C:\IHCC\Fall Term 2020\C#\Harold’sHomeServices\obj\Debug\HaroldsHomeServices.csproj.CoreCompileInputs.cache
+C:\IHCC\Fall Term 2020\C#\Harold’sHomeServices\obj\Debug\Harold’sHomeServices.exe
+C:\IHCC\Fall Term 2020\C#\Harold’sHomeServices\obj\Debug\Harold’sHomeServices.pdb
+C:\IHCC\Fall Term 2020\C#\Harold’sHomeServices\obj\Debug\HaroldsHomeServices.csprojAssemblyReference.cache
+C:\IHCC\Fall Term 2020\C#\HaroldsHomeServices\obj\Debug\HaroldsHomeServices.csprojAssemblyReference.cache
+C:\IHCC\Fall Term 2020\C#\HaroldsHomeServices\obj\Debug\HaroldsHomeServices.csproj.CoreCompileInputs.cache
+C:\IHCC\Fall Term 2020\C#\HaroldsHomeServices\bin\Debug\HaroldsHomeServices.exe.config
+C:\IHCC\Fall Term 2020\C#\HaroldsHomeServices\bin\Debug\HaroldsHomeServices.exe
+C:\IHCC\Fall Term 2020\C#\HaroldsHomeServices\bin\Debug\HaroldsHomeServices.pdb
+C:\IHCC\Fall Term 2020\C#\HaroldsHomeServices\obj\Debug\HaroldsHomeServices.exe
+C:\IHCC\Fall Term 2020\C#\HaroldsHomeServices\obj\Debug\HaroldsHomeServices.pdb
