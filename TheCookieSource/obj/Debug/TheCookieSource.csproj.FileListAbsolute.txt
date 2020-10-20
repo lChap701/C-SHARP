@@ -1,0 +1,11 @@
+C:\IHCC\Fall Term 2020\C#\TheCookieSource\bin\Debug\TheCookieSource.exe.config
+C:\IHCC\Fall Term 2020\C#\TheCookieSource\bin\Debug\TheCookieSource.exe
+C:\IHCC\Fall Term 2020\C#\TheCookieSource\bin\Debug\TheCookieSource.pdb
+C:\IHCC\Fall Term 2020\C#\TheCookieSource\obj\Debug\TheCookieSource.csprojAssemblyReference.cache
+C:\IHCC\Fall Term 2020\C#\TheCookieSource\obj\Debug\TheCookieSource.Properties.Resources.resources
+C:\IHCC\Fall Term 2020\C#\TheCookieSource\obj\Debug\TheCookieSource.csproj.GenerateResource.cache
+C:\IHCC\Fall Term 2020\C#\TheCookieSource\obj\Debug\TheCookieSource.csproj.CoreCompileInputs.cache
+C:\IHCC\Fall Term 2020\C#\TheCookieSource\obj\Debug\TheCookieSource.exe
+C:\IHCC\Fall Term 2020\C#\TheCookieSource\obj\Debug\TheCookieSource.pdb
+C:\IHCC\Fall Term 2020\C#\TheCookieSource\obj\Debug\TheCookieSource.CookieSource.resources
+C:\IHCC\Fall Term 2020\C#\TheCookieSource\obj\Debug\TheCookieSource.DisplayOrders.resources
