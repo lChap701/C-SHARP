@@ -1,0 +1,17 @@
+C:\IHCC\Fall Term 2020\C#\TheCookieSourceTest\obj\Debug\TheCookieSourceTest.csprojAssemblyReference.cache
+C:\IHCC\Fall Term 2020\C#\TheCookieSourceTest\obj\Debug\TheCookieSourceTest.csproj.CoreCompileInputs.cache
+C:\IHCC\Fall Term 2020\C#\TheCookieSourceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\IHCC\Fall Term 2020\C#\TheCookieSourceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\IHCC\Fall Term 2020\C#\TheCookieSourceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\IHCC\Fall Term 2020\C#\TheCookieSourceTest\bin\Debug\TheCookieSourceTest.dll
+C:\IHCC\Fall Term 2020\C#\TheCookieSourceTest\bin\Debug\TheCookieSourceTest.pdb
+C:\IHCC\Fall Term 2020\C#\TheCookieSourceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\IHCC\Fall Term 2020\C#\TheCookieSourceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\IHCC\Fall Term 2020\C#\TheCookieSourceTest\bin\Debug\TheCookieSource.exe
+C:\IHCC\Fall Term 2020\C#\TheCookieSourceTest\bin\Debug\TheCookieSource.pdb
+C:\IHCC\Fall Term 2020\C#\TheCookieSourceTest\bin\Debug\TheCookieSource.exe.config
+C:\IHCC\Fall Term 2020\C#\TheCookieSourceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\IHCC\Fall Term 2020\C#\TheCookieSourceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\IHCC\Fall Term 2020\C#\TheCookieSourceTest\obj\Debug\TheCookieSourceTest.csproj.CopyComplete
+C:\IHCC\Fall Term 2020\C#\TheCookieSourceTest\obj\Debug\TheCookieSourceTest.dll
+C:\IHCC\Fall Term 2020\C#\TheCookieSourceTest\obj\Debug\TheCookieSourceTest.pdb
