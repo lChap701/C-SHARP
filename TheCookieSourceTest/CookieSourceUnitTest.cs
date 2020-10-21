@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
+using System.Windows.Forms;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TheCookieSource;
 
@@ -43,28 +44,45 @@ namespace TheCookieSourceTest
             /* 
              * Invalid data tests
              */
-            Order ord = new Order("", "", ' ', -1, DateTime.Parse("01/01/2020"));
+            Order ord = new Order("", "", ' ', 1, DateTime.Parse("01/01/2020"));
 
             // Checks if values were not accepted/changed
             Assert.AreNotEqual(0, ord.ordnum);
             Assert.AreNotEqual("", ord.Custname);
             Assert.AreNotEqual("", ord.Pnum);
             Assert.AreNotEqual(' ', ord.Ctype);
-            Assert.AreNotEqual(-1, ord.Qty);
             Assert.AreNotEqual(DateTime.Parse("01/01/2020"), ord.orddate);
             Assert.AreNotEqual(DateTime.Parse("01/01/2020"), ord.Delivdate);
+
 
             // Sets new values
             ord.Pnum = "123";
             ord.Ctype = 'A';
-            ord.Qty = -1;
+
+            // Tests the custom exception class
+            try
+            {
+                ord.Qty = 0;
+            } catch (QuantityIsTooLowException e)
+            {
+                MessageBox.Show(e.Message, "Errror", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
+            try
+            {
+                ord.Qty = -1;
+            }
+            catch (QuantityIsTooLowException e)
+            {
+                MessageBox.Show(e.Message, "Errror", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
 
             // Checks if values were not accepted/changed
             Assert.AreNotEqual("123 ", ord.Pnum);
             Assert.AreNotEqual('A', ord.Ctype);
-            Assert.AreNotEqual(-1, ord.Qty);
 
-            /*
+           /*
              * Valid data tests
              */
             string tomorrow = DateTime.Now.AddDays(1).ToShortDateString();
@@ -118,9 +136,9 @@ namespace TheCookieSourceTest
                 Assert.AreEqual(ord.orddate, deser.orddate);
                 Assert.AreEqual(ord.Delivdate, deser.Delivdate);
             }
-            catch (Exception ex)
+            catch (Exception e)
             {
-                Assert.Fail(ex.Message);
+                Assert.Fail(e.Message);
             }
         }
 
