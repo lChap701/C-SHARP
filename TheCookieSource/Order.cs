@@ -40,16 +40,14 @@ namespace TheCookieSource
 
             set
             {
-                if (String.IsNullOrEmpty(value.Trim()))
-                {
-                    MessageBox.Show("Name is required", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }
-                else
+                if (!string.IsNullOrEmpty(value.Trim()))
                 {
                     custname = value.Trim();
                 }
             }
         }
+
+
         /// <summary>
         /// Property for "pnum"
         /// </summary>
@@ -65,15 +63,7 @@ namespace TheCookieSource
                 // Regex Pattern for validating phone numbers
                 string pnumFormat = "^([(][\\d]{3}[)][\\s][\\d]{3}[-][\\d]{4})$";
 
-                if (String.IsNullOrEmpty(value.Trim()))
-                {
-                    MessageBox.Show("Phone number is required", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }
-                else if (!Regex.IsMatch(value, pnumFormat))
-                {
-                    MessageBox.Show("Phone number should be in this format: (123) 123-1234", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }
-                else
+                if (!string.IsNullOrEmpty(value.Trim()) && Regex.IsMatch(value, pnumFormat))
                 {
                     pnum = value.Trim();
                 }
@@ -92,24 +82,9 @@ namespace TheCookieSource
 
             set
             {
-                try
+                if (char.ToUpper(value) == 'C' || char.ToUpper(value) == 'O' || char.ToUpper(value) == 'S')
                 {
-                    if (char.IsWhiteSpace(value))
-                    {
-                        MessageBox.Show("No cookie type was selected", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    }
-                    else if (char.ToUpper(value) == 'C' || char.ToUpper(value) == 'O' || char.ToUpper(value) == 'S')
-                    {
-                        ctype = char.ToUpper(value);
-                    }
-                    else
-                    {
-                        MessageBox.Show("Unknown cookie type was selected", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    }
-                }
-                catch (FormatException e)
-                {
-                    MessageBox.Show(e.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    ctype = char.ToUpper(value);
                 }
             }
         }
@@ -126,27 +101,17 @@ namespace TheCookieSource
 
             set
             {
-                try
+                if (value > 0)
                 {
-                    if (value > 0)
-                    {
-                        qty = value;
-                    }
-                    else
-                    {
-                        throw new QuantityIsTooLowException();
-                    }
+                    qty = value;
                 }
-                catch (FormatException e)
+                else
                 {
-                    MessageBox.Show(e.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }
-                catch (QuantityIsTooLowException e)
-                {
-                    MessageBox.Show(e.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    throw new QuantityIsTooLowException();
                 }
             }
         }
+
 
         /// <summary>
         /// Property for "delivdate"
@@ -160,11 +125,7 @@ namespace TheCookieSource
 
             set
             {
-                if (value < orddate)
-                {
-                    MessageBox.Show("Delivery date should be greater than or equal to the current date", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }
-                else
+                if (value >= orddate)
                 {
                     delivdate = value;
                 }
