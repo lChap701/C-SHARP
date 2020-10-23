@@ -306,7 +306,7 @@ namespace HaroldsHomeServices
                 // Checks if numeric opt was not entered
                 if (!result)
                 {
-                    WriteLine("Unknown opt was entered, press Enter to try again");
+                    WriteLine("Unknown option was entered, press Enter to try again");
                     ReadLine();
                 } else
                 {
