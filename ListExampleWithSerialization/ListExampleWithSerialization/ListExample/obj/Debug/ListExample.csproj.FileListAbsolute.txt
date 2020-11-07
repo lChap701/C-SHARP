@@ -1,0 +1,45 @@
+C:\Users\kthrockm\AppData\Local\Temporary Projects\ListExample\bin\Debug\ListExample.exe.config
+C:\IHCC\Cobol 2\2016 fall\ListExample\ListExample\bin\Debug\ListExample.exe.config
+C:\IHCC\Cobol 2\2016 fall\ListExample\ListExample\bin\Debug\ListExample.exe
+C:\IHCC\Cobol 2\2016 fall\ListExample\ListExample\bin\Debug\ListExample.pdb
+C:\IHCC\Cobol 2\2016 fall\ListExample\ListExample\obj\Debug\ListExample.csprojResolveAssemblyReference.cache
+C:\IHCC\Cobol 2\2016 fall\ListExample\ListExample\obj\Debug\ListExample.Form1.resources
+C:\IHCC\Cobol 2\2016 fall\ListExample\ListExample\obj\Debug\ListExample.Properties.Resources.resources
+C:\IHCC\Cobol 2\2016 fall\ListExample\ListExample\obj\Debug\ListExample.csproj.GenerateResource.Cache
+C:\IHCC\Cobol 2\2016 fall\ListExample\ListExample\obj\Debug\ListExample.exe
+C:\IHCC\Cobol 2\2016 fall\ListExample\ListExample\obj\Debug\ListExample.pdb
+C:\IHCC\C#\2016 Fall\Samples\ListExampleWithSerialization\ListExample\bin\Debug\ListExample.exe.config
+C:\IHCC\C#\2016 Fall\Samples\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.exe
+C:\IHCC\C#\2016 Fall\Samples\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.pdb
+C:\IHCC\C#\2016 Fall\Samples\ListExampleWithSerialization\ListExample\bin\Debug\ListExample.exe
+C:\IHCC\C#\2016 Fall\Samples\ListExampleWithSerialization\ListExample\bin\Debug\ListExample.pdb
+C:\IHCC\C#\2016 Fall\Samples\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.csprojResolveAssemblyReference.cache
+C:\IHCC\C#\2016 Fall\Samples\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.DisplayForm.resources
+C:\IHCC\C#\2016 Fall\Samples\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.Form1.resources
+C:\IHCC\C#\2016 Fall\Samples\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.Properties.Resources.resources
+C:\IHCC\C#\2016 Fall\Samples\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.csproj.GenerateResource.Cache
+C:\IHCC\C#\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\bin\Debug\ListExample.exe.config
+C:\IHCC\C#\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.exe
+C:\IHCC\C#\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.pdb
+C:\IHCC\C#\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.csprojResolveAssemblyReference.cache
+C:\IHCC\C#\2017 Spring\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\bin\Debug\ListExample.exe.config
+C:\IHCC\C#\2017 Spring\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\bin\Debug\ListExample.exe
+C:\IHCC\C#\2017 Spring\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\bin\Debug\ListExample.pdb
+C:\IHCC\C#\2017 Spring\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.csprojResolveAssemblyReference.cache
+C:\IHCC\C#\2017 Spring\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.DisplayForm.resources
+C:\IHCC\C#\2017 Spring\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.Form1.resources
+C:\IHCC\C#\2017 Spring\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.Properties.Resources.resources
+C:\IHCC\C#\2017 Spring\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.csproj.GenerateResource.Cache
+C:\IHCC\C#\2017 Spring\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.exe
+C:\IHCC\C#\2017 Spring\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.pdb
+C:\IHCC\Fall Term 2020\C#\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\bin\Debug\ListExample.exe.config
+C:\IHCC\Fall Term 2020\C#\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\bin\Debug\ListExample.exe
+C:\IHCC\Fall Term 2020\C#\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\bin\Debug\ListExample.pdb
+C:\IHCC\Fall Term 2020\C#\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.csprojAssemblyReference.cache
+C:\IHCC\Fall Term 2020\C#\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.DisplayForm.resources
+C:\IHCC\Fall Term 2020\C#\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.Form1.resources
+C:\IHCC\Fall Term 2020\C#\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.Properties.Resources.resources
+C:\IHCC\Fall Term 2020\C#\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.csproj.GenerateResource.cache
+C:\IHCC\Fall Term 2020\C#\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.csproj.CoreCompileInputs.cache
+C:\IHCC\Fall Term 2020\C#\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.exe
+C:\IHCC\Fall Term 2020\C#\ListExampleWithSerialization\ListExampleWithSerialization\ListExample\obj\Debug\ListExample.pdb

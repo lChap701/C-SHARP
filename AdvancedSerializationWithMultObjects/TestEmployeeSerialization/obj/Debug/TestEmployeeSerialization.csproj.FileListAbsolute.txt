@@ -1,0 +1,21 @@
+C:\Users\kthrockm\AppData\Local\Temporary Projects\TestEmployeeSerialization\bin\Debug\TestEmployeeSerialization.exe.config
+C:\Users\kthrockm\AppData\Local\Temporary Projects\TestEmployeeSerialization\bin\Debug\TestEmployeeSerialization.exe
+C:\Users\kthrockm\AppData\Local\Temporary Projects\TestEmployeeSerialization\bin\Debug\TestEmployeeSerialization.pdb
+C:\Users\kthrockm\AppData\Local\Temporary Projects\TestEmployeeSerialization\obj\Debug\TestEmployeeSerialization.csprojResolveAssemblyReference.cache
+C:\Users\kthrockm\AppData\Local\Temporary Projects\TestEmployeeSerialization\obj\Debug\TestEmployeeSerialization.exe
+C:\Users\kthrockm\AppData\Local\Temporary Projects\TestEmployeeSerialization\obj\Debug\TestEmployeeSerialization.pdb
+C:\IHCC\C#\2016 Fall\Samples\TestEmployeeSerialization\TestEmployeeSerialization\bin\Debug\TestEmployeeSerialization.exe.config
+C:\IHCC\C#\2016 Fall\Samples\TestEmployeeSerialization\TestEmployeeSerialization\obj\Debug\TestEmployeeSerialization.exe
+C:\IHCC\C#\2016 Fall\Samples\TestEmployeeSerialization\TestEmployeeSerialization\obj\Debug\TestEmployeeSerialization.pdb
+C:\IHCC\C#\2016 Fall\Samples\TestEmployeeSerialization2\TestEmployeeSerialization\bin\Debug\TestEmployeeSerialization.exe.config
+C:\IHCC\C#\2016 Fall\Samples\TestEmployeeSerialization2\TestEmployeeSerialization\obj\Debug\TestEmployeeSerialization.exe
+C:\IHCC\C#\2016 Fall\Samples\TestEmployeeSerialization2\TestEmployeeSerialization\obj\Debug\TestEmployeeSerialization.pdb
+C:\IHCC\C#\2016 Fall\Samples\TestEmployeeSerialization2\TestEmployeeSerialization\bin\Debug\TestEmployeeSerialization.exe
+C:\IHCC\C#\2016 Fall\Samples\TestEmployeeSerialization2\TestEmployeeSerialization\bin\Debug\TestEmployeeSerialization.pdb
+C:\IHCC\C#\2016 Fall\Samples\TestEmployeeSerialization2\TestEmployeeSerialization\obj\Debug\TestEmployeeSerialization.csprojResolveAssemblyReference.cache
+C:\IHCC\C#\Examples\TestEmployeeSerialization2\TestEmployeeSerialization\bin\Debug\TestEmployeeSerialization.exe.config
+C:\IHCC\C#\Examples\TestEmployeeSerialization2\TestEmployeeSerialization\obj\Debug\TestEmployeeSerialization.exe
+C:\IHCC\C#\Examples\TestEmployeeSerialization2\TestEmployeeSerialization\obj\Debug\TestEmployeeSerialization.pdb
+C:\IHCC\C#\Examples\TestEmployeeSerialization2\TestEmployeeSerialization\bin\Debug\TestEmployeeSerialization.exe
+C:\IHCC\C#\Examples\TestEmployeeSerialization2\TestEmployeeSerialization\bin\Debug\TestEmployeeSerialization.pdb
+C:\IHCC\C#\Examples\TestEmployeeSerialization2\TestEmployeeSerialization\obj\Debug\TestEmployeeSerialization.csprojAssemblyReference.cache

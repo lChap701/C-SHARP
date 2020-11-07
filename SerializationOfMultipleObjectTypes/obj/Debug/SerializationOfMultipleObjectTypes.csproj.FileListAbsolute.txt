@@ -1,0 +1,13 @@
+C:\IHCC\C#\Examples\SerializationOfMultipleObjectTypes\bin\Debug\SerializationOfMultipleObjectTypes.exe.config
+C:\IHCC\C#\Examples\SerializationOfMultipleObjectTypes\bin\Debug\SerializationOfMultipleObjectTypes.exe
+C:\IHCC\C#\Examples\SerializationOfMultipleObjectTypes\bin\Debug\SerializationOfMultipleObjectTypes.pdb
+C:\IHCC\C#\Examples\SerializationOfMultipleObjectTypes\obj\Debug\SerializationOfMultipleObjectTypes.csprojAssemblyReference.cache
+C:\IHCC\C#\Examples\SerializationOfMultipleObjectTypes\obj\Debug\SerializationOfMultipleObjectTypes.exe
+C:\IHCC\C#\Examples\SerializationOfMultipleObjectTypes\obj\Debug\SerializationOfMultipleObjectTypes.pdb
+C:\IHCC\Fall Term 2020\C#\SerializationOfMultipleObjectTypes\bin\Debug\SerializationOfMultipleObjectTypes.exe.config
+C:\IHCC\Fall Term 2020\C#\SerializationOfMultipleObjectTypes\bin\Debug\SerializationOfMultipleObjectTypes.exe
+C:\IHCC\Fall Term 2020\C#\SerializationOfMultipleObjectTypes\bin\Debug\SerializationOfMultipleObjectTypes.pdb
+C:\IHCC\Fall Term 2020\C#\SerializationOfMultipleObjectTypes\obj\Debug\SerializationOfMultipleObjectTypes.csprojAssemblyReference.cache
+C:\IHCC\Fall Term 2020\C#\SerializationOfMultipleObjectTypes\obj\Debug\SerializationOfMultipleObjectTypes.csproj.CoreCompileInputs.cache
+C:\IHCC\Fall Term 2020\C#\SerializationOfMultipleObjectTypes\obj\Debug\SerializationOfMultipleObjectTypes.exe
+C:\IHCC\Fall Term 2020\C#\SerializationOfMultipleObjectTypes\obj\Debug\SerializationOfMultipleObjectTypes.pdb
