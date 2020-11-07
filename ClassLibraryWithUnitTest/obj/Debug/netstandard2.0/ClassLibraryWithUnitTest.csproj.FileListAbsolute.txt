@@ -1,0 +1,9 @@
+C:\IHCC\Fall Term 2020\C#\ClassLibraryWithUnitTest\bin\Debug\netstandard2.0\ClassLibraryWithUnitTest.deps.json
+C:\IHCC\Fall Term 2020\C#\ClassLibraryWithUnitTest\bin\Debug\netstandard2.0\ClassLibraryWithUnitTest.dll
+C:\IHCC\Fall Term 2020\C#\ClassLibraryWithUnitTest\bin\Debug\netstandard2.0\ClassLibraryWithUnitTest.pdb
+C:\IHCC\Fall Term 2020\C#\ClassLibraryWithUnitTest\obj\Debug\netstandard2.0\ClassLibraryWithUnitTest.csprojAssemblyReference.cache
+C:\IHCC\Fall Term 2020\C#\ClassLibraryWithUnitTest\obj\Debug\netstandard2.0\ClassLibraryWithUnitTest.AssemblyInfoInputs.cache
+C:\IHCC\Fall Term 2020\C#\ClassLibraryWithUnitTest\obj\Debug\netstandard2.0\ClassLibraryWithUnitTest.AssemblyInfo.cs
+C:\IHCC\Fall Term 2020\C#\ClassLibraryWithUnitTest\obj\Debug\netstandard2.0\ClassLibraryWithUnitTest.csproj.CoreCompileInputs.cache
+C:\IHCC\Fall Term 2020\C#\ClassLibraryWithUnitTest\obj\Debug\netstandard2.0\ClassLibraryWithUnitTest.dll
+C:\IHCC\Fall Term 2020\C#\ClassLibraryWithUnitTest\obj\Debug\netstandard2.0\ClassLibraryWithUnitTest.pdb
