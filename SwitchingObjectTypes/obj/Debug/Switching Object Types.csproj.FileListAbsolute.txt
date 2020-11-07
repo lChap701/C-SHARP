@@ -1,0 +1,7 @@
+C:\IHCC\C#\Examples\Switching Object Types\bin\Debug\Switching Object Types.exe.config
+C:\IHCC\C#\Examples\Switching Object Types\bin\Debug\Switching Object Types.exe
+C:\IHCC\C#\Examples\Switching Object Types\bin\Debug\Switching Object Types.pdb
+C:\IHCC\C#\Examples\Switching Object Types\obj\Debug\Switching Object Types.csprojAssemblyReference.cache
+C:\IHCC\C#\Examples\Switching Object Types\obj\Debug\Switching Object Types.exe
+C:\IHCC\C#\Examples\Switching Object Types\obj\Debug\Switching Object Types.pdb
+C:\IHCC\C#\Examples\Switching Object Types\obj\Debug\Switching Object Types.csproj.CoreCompileInputs.cache
