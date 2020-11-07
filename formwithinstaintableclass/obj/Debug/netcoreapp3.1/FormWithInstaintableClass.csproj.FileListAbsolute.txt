@@ -1,0 +1,6 @@
+C:\IHCC\Fall Term 2020\C#\FormWithInstaintableClass\obj\Debug\netcoreapp3.1\FormWithInstaintableClass.csprojAssemblyReference.cache
+C:\IHCC\Fall Term 2020\C#\FormWithInstaintableClass\obj\Debug\netcoreapp3.1\FormWithInstaintableClass.Form1.resources
+C:\IHCC\Fall Term 2020\C#\FormWithInstaintableClass\obj\Debug\netcoreapp3.1\FormWithInstaintableClass.csproj.GenerateResource.cache
+C:\IHCC\Fall Term 2020\C#\FormWithInstaintableClass\obj\Debug\netcoreapp3.1\FormWithInstaintableClass.AssemblyInfoInputs.cache
+C:\IHCC\Fall Term 2020\C#\FormWithInstaintableClass\obj\Debug\netcoreapp3.1\FormWithInstaintableClass.AssemblyInfo.cs
+C:\IHCC\Fall Term 2020\C#\FormWithInstaintableClass\obj\Debug\netcoreapp3.1\FormWithInstaintableClass.csproj.CoreCompileInputs.cache
