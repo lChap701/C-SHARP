@@ -1,0 +1,9 @@
+C:\IHCC\Fall Term 2020\C#\GameClasses\bin\Debug\netstandard2.0\GameClasses.deps.json
+C:\IHCC\Fall Term 2020\C#\GameClasses\bin\Debug\netstandard2.0\GameClasses.dll
+C:\IHCC\Fall Term 2020\C#\GameClasses\bin\Debug\netstandard2.0\GameClasses.pdb
+C:\IHCC\Fall Term 2020\C#\GameClasses\obj\Debug\netstandard2.0\GameClasses.csprojAssemblyReference.cache
+C:\IHCC\Fall Term 2020\C#\GameClasses\obj\Debug\netstandard2.0\GameClasses.AssemblyInfoInputs.cache
+C:\IHCC\Fall Term 2020\C#\GameClasses\obj\Debug\netstandard2.0\GameClasses.AssemblyInfo.cs
+C:\IHCC\Fall Term 2020\C#\GameClasses\obj\Debug\netstandard2.0\GameClasses.csproj.CoreCompileInputs.cache
+C:\IHCC\Fall Term 2020\C#\GameClasses\obj\Debug\netstandard2.0\GameClasses.dll
+C:\IHCC\Fall Term 2020\C#\GameClasses\obj\Debug\netstandard2.0\GameClasses.pdb

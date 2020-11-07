@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2CQn/ina1OfSlsOLbekK5bZoeocBzVadSFGfxcDfdhppWdNHq4FmwKgoZuQSZVuwS08WQtB5jHQHAwnR1iUW3w==",
+  "success": true,
+  "projectFilePath": "C:\\IHCC\\Fall Term 2020\\C#\\GameClasses\\GameClasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lhapm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lhapm\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
