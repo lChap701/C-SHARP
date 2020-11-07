@@ -1,0 +1,7 @@
+C:\IHCC\Fall Term 2020\C#\DailyDiscussion\bin\Debug\DailyDiscussion.exe.config
+C:\IHCC\Fall Term 2020\C#\DailyDiscussion\bin\Debug\DailyDiscussion.exe
+C:\IHCC\Fall Term 2020\C#\DailyDiscussion\bin\Debug\DailyDiscussion.pdb
+C:\IHCC\Fall Term 2020\C#\DailyDiscussion\obj\Debug\DailyDiscussion.csprojAssemblyReference.cache
+C:\IHCC\Fall Term 2020\C#\DailyDiscussion\obj\Debug\DailyDiscussion.csproj.CoreCompileInputs.cache
+C:\IHCC\Fall Term 2020\C#\DailyDiscussion\obj\Debug\DailyDiscussion.exe
+C:\IHCC\Fall Term 2020\C#\DailyDiscussion\obj\Debug\DailyDiscussion.pdb

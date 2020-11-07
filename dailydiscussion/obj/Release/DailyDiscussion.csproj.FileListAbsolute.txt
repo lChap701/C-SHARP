@@ -1,0 +1,6 @@
+C:\IHCC\Fall Term 2020\C#\DailyDiscussion\bin\Release\DailyDiscussion.exe.config
+C:\IHCC\Fall Term 2020\C#\DailyDiscussion\bin\Release\DailyDiscussion.exe
+C:\IHCC\Fall Term 2020\C#\DailyDiscussion\bin\Release\DailyDiscussion.pdb
+C:\IHCC\Fall Term 2020\C#\DailyDiscussion\obj\Release\DailyDiscussion.csproj.CoreCompileInputs.cache
+C:\IHCC\Fall Term 2020\C#\DailyDiscussion\obj\Release\DailyDiscussion.exe
+C:\IHCC\Fall Term 2020\C#\DailyDiscussion\obj\Release\DailyDiscussion.pdb
