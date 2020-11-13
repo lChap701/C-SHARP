@@ -1,0 +1,12 @@
+C:\IHCC\Fall Term 2020\C#\StudentSystemGUI\bin\Debug\StudentSystemGUI.exe.config
+C:\IHCC\Fall Term 2020\C#\StudentSystemGUI\bin\Debug\StudentSystemGUI.exe
+C:\IHCC\Fall Term 2020\C#\StudentSystemGUI\bin\Debug\StudentSystemGUI.pdb
+C:\IHCC\Fall Term 2020\C#\StudentSystemGUI\obj\Debug\StudentSystemGUI.csprojAssemblyReference.cache
+C:\IHCC\Fall Term 2020\C#\StudentSystemGUI\obj\Debug\StudentSystemGUI.Properties.Resources.resources
+C:\IHCC\Fall Term 2020\C#\StudentSystemGUI\obj\Debug\StudentSystemGUI.StudentSystem.resources
+C:\IHCC\Fall Term 2020\C#\StudentSystemGUI\obj\Debug\StudentSystemGUI.csproj.GenerateResource.cache
+C:\IHCC\Fall Term 2020\C#\StudentSystemGUI\obj\Debug\StudentSystemGUI.csproj.CoreCompileInputs.cache
+C:\IHCC\Fall Term 2020\C#\StudentSystemGUI\obj\Debug\StudentSystemGUI.exe
+C:\IHCC\Fall Term 2020\C#\StudentSystemGUI\obj\Debug\StudentSystemGUI.pdb
+C:\IHCC\Fall Term 2020\C#\StudentSystemGUI\obj\Debug\StudentSystemGUI.DeleteStudent.resources
+C:\IHCC\Fall Term 2020\C#\StudentSystemGUI\obj\Debug\StudentSystemGUI.UpdateStudent.resources
